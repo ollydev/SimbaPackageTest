@@ -1,0 +1,11 @@
+path=Includes/TestPackage
+flat=false
+
+ignore=dir
+ignore=bad.simba
+ignore=.git
+
+script=script.simba
+script=script2.simba
+example=example.simba
+example=example2.simba

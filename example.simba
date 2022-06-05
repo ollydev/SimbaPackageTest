@@ -1,0 +1,3 @@
+begin
+  WriteLn('example.simba');
+end.
